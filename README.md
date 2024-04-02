@@ -1,6 +1,6 @@
 <b>TIC-TAC-TOE Game Clone<b>
 
-Game can be viewed at: 
+Game can be viewed at: https://ayaz1006.github.io/TIC-TAC-TOE/
 
 This project is a clone of the classic TIC-TAC-TOE game implemented using JavaScript. The game features a simple user interface where players can click on boxes to place their respective marks, X or O. Below is a summary of the key components and functionalities of the project:
 
